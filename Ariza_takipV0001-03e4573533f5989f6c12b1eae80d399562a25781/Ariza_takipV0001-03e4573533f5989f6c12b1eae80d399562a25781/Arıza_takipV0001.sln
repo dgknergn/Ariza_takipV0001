@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arıza_takipV0001", "Arıza_takipV0001\Arıza_takipV0001.csproj", "{89E0198A-E22A-4DAC-AC06-57D4E135BDFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E0198A-E22A-4DAC-AC06-57D4E135BDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E0198A-E22A-4DAC-AC06-57D4E135BDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E0198A-E22A-4DAC-AC06-57D4E135BDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E0198A-E22A-4DAC-AC06-57D4E135BDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F946CEA-C36A-4908-AE25-D3CE606FB23B}
+	EndGlobalSection
+EndGlobal
